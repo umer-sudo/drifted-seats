@@ -1,0 +1,6 @@
+{
+  "about": "Drifted Marketing seat status. Each id is a random token; names are not stored here. 'revoked' tells that seat's PC to remove Drifted's files.",
+  "seats": {
+    "48a2c562f1e2a81103feaad4": { "status": "active", "since": "2026-10-25" }
+  }
+}
